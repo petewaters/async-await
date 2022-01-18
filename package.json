@@ -12,6 +12,6 @@
   "author": "Pete Waters",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^1.7.2"
+    "node-fetch": "^2.6.7"
   }
 }
